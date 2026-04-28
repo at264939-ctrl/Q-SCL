@@ -1,0 +1,8 @@
+venv/
+solana-release/
+test-ledger/
+node_modules/
+.env
+*.log
+__pycache__/
+target/
