@@ -1,4 +1,4 @@
-<div align="center">
+9<div align="center">
 
 ```
 ██████╗       ███████╗ ██████╗██╗     
@@ -207,7 +207,7 @@ Traditional cross-chain transfers require bridges — centralized chokepoints wi
 ### Step 1 — Clone & Configure
 
 ```bash
-git clone https://github.com/your-org/q-scl.git
+git clone https://github.com/at264939-ctrl.git
 cd q-scl
 cp .env.example .env
 ```
