@@ -207,8 +207,8 @@ Traditional cross-chain transfers require bridges — centralized chokepoints wi
 ### Step 1 — Clone & Configure
 
 ```bash
-git clone https://github.com/at264939-ctrl.git
-cd q-scl
+git clone https://github.com/at264939-ctrl/Q-SCL.git
+cd Q-SCL
 cp .env.example .env
 ```
 
